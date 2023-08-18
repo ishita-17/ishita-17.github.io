@@ -19,8 +19,7 @@ My PhD mentor is Yuanxi Fu and you can find more about her work at https://ischo
 
 ## About My Project
 
-My project involves developing, documenting, and testing reusable pipelines for acquiring and processing full-text content of scholarly publications by text and data mining. It will establish the capabilities and limitations of APIs and natural language processing libraries for use in future Information Quality Lab projects that use scholarly publications as data. I will develop, document, and test pipelines to (1) acquire full-text data from Crossref's text and data mining API; (2) process the data into desired formats to assist my Ph.D. mentor Yuanxi Fu on a project that requires full-text retrieval and processing; (3) and extract other information of interest to lab members.  
-
+My project involves constructing a data extraction pipeline that will download full texts of scholarly publications to help researchers create their own custom datasets. My pipeline is reusable such that given any Digital Object Identifier (DOI) of scholarly papers it can extract the papers' PDF and XML full texts, if available, and store them in a database. To extract the full text under various copyright licenses, I used text and data mining APIs supplied by Crossref, Elsevier, and Wiley. I also identified scientific analysis tasks that could be done after the extraction by interviewing researchers who mine and analyze scholarly publications as part of my requirements analysis. The full text extraction pipeline is important because it allows different datasets of scholarly publications to be created using a single pipeline, making it easier for researchers to construct their custom datasets without wasting time on copyright licenses.
 [My Final Report](files/DREU_Milestone4_FinalReport.pdf)
 
 ## My Blog
