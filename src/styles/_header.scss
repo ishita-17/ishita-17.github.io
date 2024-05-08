@@ -46,7 +46,10 @@
 }
 
 .header-image {
-  margin: 70px auto;
+  margin: 100px auto;
+  background: url("images/IMG_1972.jpg");
+  background-size: 40px; 
+  display: inline-block;
   image {
     max-width: 20%;
     height: auto;
