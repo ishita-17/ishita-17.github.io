@@ -10,4 +10,4 @@ Additionally, the app allows a user to compare the changes in different counties
 
 The Shiny app can be found [here](https://ishita-sarraf.shinyapps.io/rshinyapp/). 
 
-<img src="/assets/img/povertyrate.png" alt="poverty" width="200"/>
+<img src="/assets/img/povertyrate.png" alt="poverty" width="800"/>
