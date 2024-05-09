@@ -13,4 +13,4 @@ The Shiny app can be found [here](https://ishita-sarraf.shinyapps.io/ishita-csc3
 
 The GitHub repository is [here](https://github.com/ishita-17/ishita-csc324-02). 
 
-![Image of the app](/assets/img/investment2.png) 
+<img src="/assets/img/investment2.png" alt="investment" width="800"/>

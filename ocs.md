@@ -14,4 +14,4 @@ The Shiny app can be found [here](https://caitlinabreu.shinyapps.io/IGE_and_Off_
 
 The GitHub repository is [here](https://github.com/CSC322-Grinnell/SP24-IGE_OCS). 
 
-![Image of the app](/assets/img/map.png) 
+<img src="/assets/img/map.png" alt="ocs" width="800"/>
