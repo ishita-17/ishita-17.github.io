@@ -26,6 +26,7 @@
   transform: translate(-50%, -50%);
 
   .site-title {
+    text-align: right;
     font-size: 50px;
     display: block;
     line-height: 1;
@@ -38,6 +39,7 @@
   }
 
   .site-description {
+    text-align: right;
     font-size: 20px;
     display: block;
     line-height: 1;
@@ -55,6 +57,7 @@
     max-width: 500px;
     height: auto;
     width: 500px;
+    text-align: left;
   }
 }
 
@@ -76,10 +79,10 @@
 .header-icons {
   display: flex;
   justify-content: center;
-  text-align: center;
+  text-align: right;
 
   .icon {
-    text-align: center;
+    text-align: right;
     color: #FFF;
     width: 20px;
     height: 20px;
