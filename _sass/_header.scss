@@ -20,8 +20,9 @@
   color: #FFF;
   position: absolute;
   top: 50%;
-  left: 50%;
+  left: 80%;
   margin: 0 auto;
+  margin-right: 30px;
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
 
@@ -78,7 +79,7 @@
 
 .header-icons {
   display: flex;
-  justify-content: center;
+  justify-content: right;
   text-align: right;
 
   .icon {
