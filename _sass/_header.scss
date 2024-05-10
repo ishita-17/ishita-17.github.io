@@ -46,11 +46,12 @@
 }
 
 .header-image {
-  margin: 20px auto;
+  margin: 100px auto;
+  text-align: left;
   img {
-    max-width: 100%;
+    max-width: 10px;
     height: auto;
-    border-radius: 5px;
+    width: 10px;
   }
 }
 
