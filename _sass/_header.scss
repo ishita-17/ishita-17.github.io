@@ -16,11 +16,12 @@
   .header-image {
     img {
       width: 40%;
-      min-width: 400px; 
+      min-width: 220%; 
       max-width: 100%; 
       height: auto;
       text-align: left;
-      margin-left: 400px;
+      margin-left: 200px;
+      margin-top: 200px;
     }
   }
   
@@ -43,9 +44,11 @@
     display: block;
     line-height: 1;
     color: #FFF;
+    margin-right: 350px;
+    margin-top: 1500px;
 
     @media only screen and (min-width:$cut) {
-      margin: 0;
+      margin: 15px;
       font-size: 100px;
     }
   }
@@ -57,6 +60,7 @@
     line-height: 1;
     color: #FFF;
     margin-top: 10px;
+    margin-right: 50px;
 
     @media only screen and (min-width:$cut) {
       font-size: 40px;
@@ -91,7 +95,7 @@
     height: 20px;
     font-size: 20px;
     padding: 10px;
-    margin: 5px;
+    margin: 10px;
     border-radius: 50%;
     border: 2px solid #FFF;
     transition: all .7s;
