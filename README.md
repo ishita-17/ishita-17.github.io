@@ -7,3 +7,4 @@ My website covers my research interests, projects, and publications. Feel free t
 I am a rising fourth-year undergraduate studying Computer Science at Grinnell College, IA. I am interested in pursuing a PhD in Human-Computer Interaction and Artificial Intelligence. I am interested in studying various types of biases such as gender and racial biases in AI algorithms' training data. 
 
 ![](Portfolio_picture.png)
+
