@@ -3,17 +3,17 @@ layout: page
 title: DREU 2024 Blog
 ---
 
-<div class="posts">
+<div class="posts2">
   {% for post in site.posts %}
-    <article class="post">
+    <article class="post2">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h1><a href="{{ site.baseurl }}{{ post2.url }}">{{ post.title }}</a></h1>
 
       <div class="entry">
         {{ post.excerpt }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <a href="{{ site.baseurl }}{{ post2.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
 </div>
